@@ -7,9 +7,6 @@ Welcome to the SOLID Principles in C#! This repository is dedicated to demonstra
 1. [Introduction](#introduction)
 2. [Principles](#principles)
 3. [Examples](#examples)
-4. [Getting Started](#getting-started)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Introduction
 
